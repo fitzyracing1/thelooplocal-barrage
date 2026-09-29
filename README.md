@@ -1,2 +1,5 @@
 # thelooplocal-barrage
-Barrage plain-language clone of fitzyracing1/thelooplocal
+
+Barrage clone of [fitzyracing1/thelooplocal](https://github.com/fitzyracing1/thelooplocal).
+
+Read [listing.barrage](listing.barrage).

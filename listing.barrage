@@ -1,0 +1,37 @@
+# thelooplocal
+
+> Swift local snapshot of The Loop / Loopa. Sister of theloop.
+
+## Purpose
+Give a plain-language door to fitzyracing1/thelooplocal.
+
+## How it works (plain English)
+1. Keep the original repo as the local Loop files.
+2. Use this clone to explain the idea.
+3. Send the reader to theloop for the other Swift shelf.
+
+## Key ideas
+- The Loop, local copy
+- Swift source
+- Sister of theloop
+
+## The actual code
+```
+# source: fitzyracing1/thelooplocal
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/thelooplocal”
+
+## Decisions the program makes
+- If a reader wants the other Swift shelf → theloop
+
+## What a person would notice
+A named wrap on a local Loop door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source, or theloop.
